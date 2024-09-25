@@ -1,2 +1,3 @@
 newfile.txt is created in the github
 changed from vs code 
+chanaged from githhub repository
