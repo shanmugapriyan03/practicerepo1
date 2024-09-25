@@ -1,1 +1,2 @@
 newfile.txt is created in the github
+changed from vs code 
